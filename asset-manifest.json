@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.ccf5f1e7.css",
-    "main.js": "/Portfolio/static/js/main.92e7a607.js",
+    "main.js": "/Portfolio/static/js/main.8cf07182.js",
     "static/js/415.fb51c11d.chunk.js": "/Portfolio/static/js/415.fb51c11d.chunk.js",
     "static/js/787.35dd0f9c.chunk.js": "/Portfolio/static/js/787.35dd0f9c.chunk.js",
     "static/media/mathis_t_resume_2023.pdf": "/Portfolio/static/media/mathis_t_resume_2023.a2818ae6ba6b7445be3c.pdf",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.ccf5f1e7.css.map": "/Portfolio/static/css/main.ccf5f1e7.css.map",
-    "main.92e7a607.js.map": "/Portfolio/static/js/main.92e7a607.js.map",
+    "main.8cf07182.js.map": "/Portfolio/static/js/main.8cf07182.js.map",
     "415.fb51c11d.chunk.js.map": "/Portfolio/static/js/415.fb51c11d.chunk.js.map",
     "787.35dd0f9c.chunk.js.map": "/Portfolio/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccf5f1e7.css",
-    "static/js/main.92e7a607.js"
+    "static/js/main.8cf07182.js"
   ]
 }
