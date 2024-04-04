@@ -105,7 +105,7 @@ Amazon Redshift </p>
         <hr />
         <p className="card-text" style={{ backgroundColor: "#f2f2f2", padding: "10px", borderRadius: "5px" }}>
               <strong>Project Overview:</strong> 
-              I spearheaded the development of a comprehensive client application portal for Root Clinic, focusing on dynamic form creation, client chart management, client care planning, and appointment scheduling. The project involved close collaboration with medical professionals to ensure the application met the specific needs of the clinic and its patients.
+              The development of a comprehensive client application portal for Root Clinic, focusing on dynamic form creation, client chart management, client care planning, and appointment scheduling. The project involved close collaboration with medical professionals to ensure the application met the specific needs of the clinic and its patients.
             </p>        <hr />
             
             <strong>Responsibilities and Achievements:</strong>
